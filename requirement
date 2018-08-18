@@ -1,4 +1,4 @@
-certifi==2018.8.13
+"""certifi==2018.8.13
 dj-database-url==0.4.2
 Django==2.0.5
 django-widget-tweaks==1.4.2
@@ -7,4 +7,4 @@ Pillow==5.2.0
 psycopg2==2.7.5
 python-decouple==3.1
 pytz==2018.4
-wincertstore==0.2
+wincertstore==0.2"""
